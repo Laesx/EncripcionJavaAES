@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>xanketes</groupId>
-    <artifactId>EncripcionJavaAES</artifactId>
+    <artifactId>EncriptacionJavaAES</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

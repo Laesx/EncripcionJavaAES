@@ -9,7 +9,7 @@ import java.nio.charset.StandardCharsets;
 import java.security.spec.KeySpec;
 import java.util.Base64;
 
-public class Encripcion {
+public class Encriptacion {
     private static final String ALGORITHM = "DES";
     private static final String CLAVE = "asdf234f";
 

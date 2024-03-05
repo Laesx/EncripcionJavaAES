@@ -8,10 +8,10 @@ public class Main {
         System.out.print("Introduzca un mensaje para encriptar: ");
         String mensaje = sc.nextLine();
 
-        String mensajeEncriptado = Encripcion.encriptar(mensaje);
+        String mensajeEncriptado = Encriptacion.encriptar(mensaje);
         System.out.println("Mensaje encriptado: " + mensajeEncriptado);
 
-        String mensajeDesencriptado = Encripcion.desencriptar(mensajeEncriptado);
+        String mensajeDesencriptado = Encriptacion.desencriptar(mensajeEncriptado);
         System.out.println("Mensaje desencriptado: " + mensajeDesencriptado);
 
 
